@@ -6,4 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis
 postgres
-ghcr.io/immich-app/immich-machine-learning:pr-10304-armnn
+altran1502/immich-server
+altran1502/immich-machine-learning
