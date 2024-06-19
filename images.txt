@@ -5,7 +5,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
 redis
-tensorchord/pgvecto-rs
 altran1502/immich-server
 altran1502/immich-machine-learning
 postgres
